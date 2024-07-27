@@ -327,7 +327,8 @@ header nav a{
         background: unset;
     }
     #skill .list .item:nth-child(2),
-    #skill .list .item:nth-child(3n){
+    #skill .list .item:nth-child(3n),
+    #skill .list .item:nth-child(7n){
         background: #E78895;
     }
     #project .list{
